@@ -6,7 +6,7 @@ Project Report (Topic 1)
 
 **Stroke Prediction**
 
-Student: CHIU Man Tsun (12317290)
+Student: CHIU Man Tsun
 
 **Introduction**
 
