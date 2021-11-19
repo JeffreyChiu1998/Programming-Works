@@ -1,4 +1,4 @@
-# Machine Learning Project (University Project):
+# Machine Learning Project (Python):
 
 ### Topic:
 Stroke Prediction
